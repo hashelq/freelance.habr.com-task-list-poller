@@ -2,7 +2,7 @@
 A simple script that notifies you when a new task appears at freelance.habr.com
 
 # Installation
-`pip install -r`
+`pip install -r requirements.txt`
 
 # Usage
 `python main.py` for all categories
